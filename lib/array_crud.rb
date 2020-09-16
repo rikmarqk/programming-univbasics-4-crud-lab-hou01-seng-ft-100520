@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["Batman", "Superman", "Wonder Woman", "Cyborg"]
+  jla = ["Batman", "Superman", "Wonder Woman", "Cyborg"]
 end
 
 def add_element_to_end_of_array(array, element)
-  ["Batman", "Superman", "Wonder Woman", "Cyborg"]
+  jla = ["Batman", "Superman", "Wonder Woman", "Cyborg"]
   << "Green Lantern"
 end
 
