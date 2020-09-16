@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   phrase = ["wow", "i", "am", "so", "like", "learning", "arrays!"]
-  phrase[4]=
+  phrase[4]="totally"
 end
