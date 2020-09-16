@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   jla = ["Batman", "Superman", "Wonder Woman", "Cyborg"]
-  << "Green Lantern"
+  jla << "Green Lantern"
 end
 
 def add_element_to_start_of_array(array, element)
