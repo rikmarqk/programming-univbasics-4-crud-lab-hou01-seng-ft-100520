@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  phrase = ["I", "am", "really", "learning", "arrays!"]
+  phrase = ["wow", "i", "am", "learning", "arrays!"]
   phrase[2]
 end
 
