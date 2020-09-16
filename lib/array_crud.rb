@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  jla = ["Batman", "Superman", "Wonder Woman", "Cyborg"]
+  jla = ["Wow", "I'm", "really", "learning"]
   jla << "arrays!"
 end
 
