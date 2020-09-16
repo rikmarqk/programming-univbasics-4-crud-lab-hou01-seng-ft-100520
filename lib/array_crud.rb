@@ -37,10 +37,11 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  phrase = ["wow", "i", "am", "learning", "arrays!"]
-  phrase[4]
+    phrase = ["wow", "i", "am", "learning", "arrays!"]
+  phrase[0]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  phrase = ["wow", "i", "am", "so", "like", "learning", "arrays!"]
+  phrase[4]=
 end
